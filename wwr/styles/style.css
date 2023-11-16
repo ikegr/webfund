@@ -1,0 +1,66 @@
+
+content {max-width: 1600px; 
+        margin: 0 auto;}
+nav a {text-align: center; color:bisque;  text-decoration: none; padding: 35px;
+}
+#hero-msg h1, #hero-msg h4 {text-align: center; font-family:"sans-seriff","tahoma","Arial"; 
+}
+.home-title {color:bisque; font-family:"sans-seriff","tahoma","Arial"; font-size:2em; margin-top: 10px;
+}
+h4 {color: bisque; font-family:"sans-seriff","tahoma","Arial";
+}
+.button-box {text-align: center; font-family:"sans-seriff","tahoma","Arial";
+}
+main section {text-align: center; font-family:"sans-seriff","tahoma","Arial";
+}
+main section img {
+    box-sizing: border-box;
+}
+#background {
+    height: 725px;
+}
+body {background-color: #396E94; font-size: 22px; margin: 0; padding: 0;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+header {background-color: darkgoldenrod;
+}
+h2 {
+    margin: 0;
+}
+nav a:hover {background-color: brown;
+}
+.book, .join {background-color: #396E94; color: bisque;  text-decoration: none; font-family:"sans-seriff","tahoma","Arial"; font-size:18px; padding: 15px 30px; margin-top: 50px;  border-radius: 5px;
+}
+.book:hover, .join:hover {background-color: chocolate; color: bisque; font-family:"sans-seriff","tahoma","Arial";
+}
+#background {background-color: coral;
+}
+.msg {background-color: cadetblue; font-family:"sans-seriff","tahoma","Arial"; padding: 35px;
+}
+.msg h2 {color: bisque; font-family:"sans-seriff","tahoma","Arial";
+}
+.msg p {color:coral; font-family:"sans-seriff","tahoma","Arial"; font-size:.8em; line-height: 1.5em; padding-bottom: 15px;
+}
+.mountains {
+    text-align:center
+}
+.rivers-card, .camping-card, .rapids-card  {margin: 200px 0;
+}
+footer {background-color: chocolate; color: bisque; padding: 25px 50px; margin-top: 200px;
+}
+footer a {color:bisque;  text-decoration: none;
+}
+footer a:hover {color:bisque
+}
+footer .social img {padding-top: 15px;
+
+}
+footer p {font-size: 1.2em; text-decoration: underline;
+}
+.icon {
+    width: 80px;  padding-top: 10px;
+}
+#logo_link { padding-top: 5px;
+}
