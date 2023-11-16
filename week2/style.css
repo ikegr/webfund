@@ -1,0 +1,21 @@
+*{
+    border: 1px solid;
+}
+
+li {
+    background-color:red;
+    display: inline-block;
+
+}
+.banner{
+    width:100%;
+    
+}
+
+class.active{
+    color:white;
+}
+.green{
+background-color:green;
+
+}
